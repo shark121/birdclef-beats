@@ -1,0 +1,902 @@
+[32mActivated conda/uv virtual environment at [36m/venv/main[0m
+preprocessing 35549 recordings with 80 workers -> 5.0s @ 16000Hz mono
+bird-band filter: >= 0% of energy in 1.5-9 kHz   [tag: bc26]
+  100/35549 recordings -> 327 clips
+  200/35549 recordings -> 632 clips
+  300/35549 recordings -> 1012 clips
+  400/35549 recordings -> 1432 clips
+  500/35549 recordings -> 1784 clips
+  600/35549 recordings -> 2107 clips
+  700/35549 recordings -> 2510 clips
+  800/35549 recordings -> 2917 clips
+  900/35549 recordings -> 3352 clips
+  1000/35549 recordings -> 3778 clips
+  1100/35549 recordings -> 4206 clips
+  1200/35549 recordings -> 4743 clips
+  1300/35549 recordings -> 5298 clips
+  1400/35549 recordings -> 5652 clips
+  1500/35549 recordings -> 5956 clips
+  1600/35549 recordings -> 6413 clips
+  1700/35549 recordings -> 6885 clips
+  1800/35549 recordings -> 7353 clips
+  1900/35549 recordings -> 7701 clips
+  2000/35549 recordings -> 8026 clips
+  2100/35549 recordings -> 8444 clips
+  2200/35549 recordings -> 8971 clips
+  2300/35549 recordings -> 9410 clips
+  2400/35549 recordings -> 9787 clips
+  2500/35549 recordings -> 10351 clips
+  2600/35549 recordings -> 10806 clips
+  2700/35549 recordings -> 11157 clips
+  2800/35549 recordings -> 11463 clips
+  2900/35549 recordings -> 11773 clips
+  3000/35549 recordings -> 12041 clips
+  3100/35549 recordings -> 12324 clips
+  3200/35549 recordings -> 12649 clips
+  3300/35549 recordings -> 13056 clips
+  3400/35549 recordings -> 13522 clips
+  3500/35549 recordings -> 13865 clips
+  3600/35549 recordings -> 14171 clips
+  3700/35549 recordings -> 14531 clips
+  3800/35549 recordings -> 14920 clips
+  3900/35549 recordings -> 15239 clips
+  4000/35549 recordings -> 15558 clips
+  4100/35549 recordings -> 15997 clips
+  4200/35549 recordings -> 16524 clips
+  4300/35549 recordings -> 17006 clips
+  4400/35549 recordings -> 17332 clips
+  4500/35549 recordings -> 17581 clips
+  4600/35549 recordings -> 18011 clips
+  4700/35549 recordings -> 18460 clips
+  4800/35549 recordings -> 18903 clips
+  4900/35549 recordings -> 19317 clips
+  5000/35549 recordings -> 19620 clips
+  5100/35549 recordings -> 19855 clips
+  5200/35549 recordings -> 20113 clips
+  5300/35549 recordings -> 20399 clips
+  5400/35549 recordings -> 20739 clips
+  5500/35549 recordings -> 21205 clips
+  5600/35549 recordings -> 21587 clips
+  5700/35549 recordings -> 21981 clips
+  5800/35549 recordings -> 22325 clips
+  5900/35549 recordings -> 22670 clips
+  6000/35549 recordings -> 23008 clips
+  6100/35549 recordings -> 23348 clips
+  6200/35549 recordings -> 23616 clips
+  6300/35549 recordings -> 23947 clips
+  6400/35549 recordings -> 24281 clips
+  6500/35549 recordings -> 24630 clips
+  6600/35549 recordings -> 25061 clips
+  6700/35549 recordings -> 25488 clips
+  6800/35549 recordings -> 25916 clips
+  6900/35549 recordings -> 26277 clips
+  7000/35549 recordings -> 26756 clips
+  7100/35549 recordings -> 27211 clips
+  7200/35549 recordings -> 27722 clips
+  7300/35549 recordings -> 28013 clips
+  7400/35549 recordings -> 28228 clips
+  7500/35549 recordings -> 28643 clips
+  7600/35549 recordings -> 29169 clips
+  7700/35549 recordings -> 29681 clips
+  7800/35549 recordings -> 30005 clips
+  7900/35549 recordings -> 30305 clips
+  8000/35549 recordings -> 30647 clips
+  8100/35549 recordings -> 31154 clips
+  8200/35549 recordings -> 31617 clips
+  8300/35549 recordings -> 31918 clips
+  8400/35549 recordings -> 32212 clips
+  8500/35549 recordings -> 32700 clips
+  8600/35549 recordings -> 33111 clips
+  8700/35549 recordings -> 33533 clips
+  8800/35549 recordings -> 34124 clips
+  8900/35549 recordings -> 34565 clips
+  9000/35549 recordings -> 34997 clips
+  9100/35549 recordings -> 35503 clips
+  9200/35549 recordings -> 35872 clips
+  9300/35549 recordings -> 36344 clips
+  9400/35549 recordings -> 36822 clips
+  9500/35549 recordings -> 37296 clips
+  9600/35549 recordings -> 37707 clips
+  9700/35549 recordings -> 37985 clips
+  9800/35549 recordings -> 38211 clips
+  9900/35549 recordings -> 38556 clips
+  10000/35549 recordings -> 39006 clips
+  10100/35549 recordings -> 39474 clips
+  10200/35549 recordings -> 39924 clips
+  10300/35549 recordings -> 40438 clips
+  10400/35549 recordings -> 40824 clips
+  10500/35549 recordings -> 41257 clips
+  10600/35549 recordings -> 41733 clips
+  10700/35549 recordings -> 42130 clips
+  10800/35549 recordings -> 42513 clips
+  10900/35549 recordings -> 42969 clips
+  11000/35549 recordings -> 43379 clips
+  11100/35549 recordings -> 43762 clips
+  11200/35549 recordings -> 44266 clips
+  11300/35549 recordings -> 44743 clips
+  11400/35549 recordings -> 45263 clips
+  11500/35549 recordings -> 45701 clips
+  11600/35549 recordings -> 46112 clips
+  11700/35549 recordings -> 46633 clips
+  11800/35549 recordings -> 47120 clips
+  11900/35549 recordings -> 47606 clips
+  12000/35549 recordings -> 48034 clips
+  12100/35549 recordings -> 48449 clips
+  12200/35549 recordings -> 48866 clips
+  12300/35549 recordings -> 49134 clips
+  12400/35549 recordings -> 49437 clips
+  12500/35549 recordings -> 49762 clips
+  12600/35549 recordings -> 50155 clips
+  12700/35549 recordings -> 50569 clips
+  12800/35549 recordings -> 50995 clips
+  12900/35549 recordings -> 51374 clips
+  13000/35549 recordings -> 51600 clips
+  13100/35549 recordings -> 51840 clips
+  13200/35549 recordings -> 52068 clips
+  13300/35549 recordings -> 52306 clips
+  13400/35549 recordings -> 52628 clips
+  13500/35549 recordings -> 53110 clips
+  13600/35549 recordings -> 53586 clips
+  13700/35549 recordings -> 53933 clips
+  13800/35549 recordings -> 54320 clips
+  13900/35549 recordings -> 54769 clips
+  14000/35549 recordings -> 55336 clips
+  14100/35549 recordings -> 55905 clips
+  14200/35549 recordings -> 56287 clips
+  14300/35549 recordings -> 56532 clips
+  14400/35549 recordings -> 56791 clips
+  14500/35549 recordings -> 57043 clips
+  14600/35549 recordings -> 57273 clips
+  14700/35549 recordings -> 57723 clips
+  14800/35549 recordings -> 58207 clips
+  14900/35549 recordings -> 58672 clips
+  15000/35549 recordings -> 59086 clips
+  15100/35549 recordings -> 59482 clips
+  15200/35549 recordings -> 59777 clips
+  15300/35549 recordings -> 60090 clips
+  15400/35549 recordings -> 60501 clips
+  15500/35549 recordings -> 60814 clips
+  15600/35549 recordings -> 61130 clips
+  15700/35549 recordings -> 61441 clips
+  15800/35549 recordings -> 61778 clips
+  15900/35549 recordings -> 62225 clips
+  16000/35549 recordings -> 62635 clips
+  16100/35549 recordings -> 62978 clips
+  16200/35549 recordings -> 63361 clips
+  16300/35549 recordings -> 63768 clips
+  16400/35549 recordings -> 64153 clips
+  16500/35549 recordings -> 64609 clips
+  16600/35549 recordings -> 64936 clips
+  16700/35549 recordings -> 65174 clips
+  16800/35549 recordings -> 65574 clips
+  16900/35549 recordings -> 65891 clips
+  17000/35549 recordings -> 66227 clips
+  17100/35549 recordings -> 66604 clips
+  17200/35549 recordings -> 67058 clips
+  17300/35549 recordings -> 67451 clips
+  17400/35549 recordings -> 67680 clips
+  17500/35549 recordings -> 67908 clips
+  17600/35549 recordings -> 68153 clips
+  17700/35549 recordings -> 68521 clips
+  17800/35549 recordings -> 68883 clips
+  17900/35549 recordings -> 69263 clips
+  18000/35549 recordings -> 69735 clips
+  18100/35549 recordings -> 70148 clips
+  18200/35549 recordings -> 70541 clips
+  18300/35549 recordings -> 70942 clips
+  18400/35549 recordings -> 71361 clips
+  18500/35549 recordings -> 71838 clips
+  18600/35549 recordings -> 72150 clips
+  18700/35549 recordings -> 72488 clips
+  18800/35549 recordings -> 72942 clips
+  18900/35549 recordings -> 73447 clips
+  19000/35549 recordings -> 73953 clips
+  19100/35549 recordings -> 74456 clips
+  19200/35549 recordings -> 74910 clips
+  19300/35549 recordings -> 75260 clips
+  19400/35549 recordings -> 75664 clips
+  19500/35549 recordings -> 76083 clips
+  19600/35549 recordings -> 76464 clips
+  19700/35549 recordings -> 76908 clips
+  19800/35549 recordings -> 77352 clips
+  19900/35549 recordings -> 77727 clips
+  20000/35549 recordings -> 78130 clips
+  20100/35549 recordings -> 78592 clips
+  20200/35549 recordings -> 79006 clips
+  20300/35549 recordings -> 79284 clips
+  20400/35549 recordings -> 79709 clips
+  20500/35549 recordings -> 80195 clips
+  20600/35549 recordings -> 80569 clips
+  20700/35549 recordings -> 80934 clips
+  20800/35549 recordings -> 81339 clips
+  20900/35549 recordings -> 81763 clips
+  21000/35549 recordings -> 82052 clips
+  21100/35549 recordings -> 82379 clips
+  21200/35549 recordings -> 82883 clips
+  21300/35549 recordings -> 83379 clips
+  21400/35549 recordings -> 83795 clips
+  21500/35549 recordings -> 84043 clips
+  21600/35549 recordings -> 84314 clips
+  21700/35549 recordings -> 84889 clips
+  21800/35549 recordings -> 85389 clips
+  21900/35549 recordings -> 85789 clips
+  22000/35549 recordings -> 86194 clips
+  22100/35549 recordings -> 86607 clips
+  22200/35549 recordings -> 86882 clips
+  22300/35549 recordings -> 87180 clips
+  22400/35549 recordings -> 87475 clips
+  22500/35549 recordings -> 87734 clips
+  22600/35549 recordings -> 88119 clips
+  22700/35549 recordings -> 88593 clips
+  22800/35549 recordings -> 89031 clips
+  22900/35549 recordings -> 89400 clips
+  23000/35549 recordings -> 89827 clips
+  23100/35549 recordings -> 90200 clips
+  23200/35549 recordings -> 90584 clips
+  23300/35549 recordings -> 90948 clips
+  23400/35549 recordings -> 91348 clips
+  23500/35549 recordings -> 91771 clips
+  23600/35549 recordings -> 92102 clips
+  23700/35549 recordings -> 92419 clips
+  23800/35549 recordings -> 92794 clips
+  23900/35549 recordings -> 93260 clips
+  24000/35549 recordings -> 93753 clips
+  24100/35549 recordings -> 94103 clips
+  24200/35549 recordings -> 94536 clips
+  24300/35549 recordings -> 94930 clips
+  24400/35549 recordings -> 95304 clips
+  24500/35549 recordings -> 95655 clips
+  24600/35549 recordings -> 96019 clips
+  24700/35549 recordings -> 96415 clips
+  24800/35549 recordings -> 96812 clips
+  24900/35549 recordings -> 97191 clips
+  25000/35549 recordings -> 97447 clips
+  25100/35549 recordings -> 97775 clips
+  25200/35549 recordings -> 98094 clips
+  25300/35549 recordings -> 98601 clips
+  25400/35549 recordings -> 99007 clips
+  25500/35549 recordings -> 99353 clips
+  25600/35549 recordings -> 99713 clips
+  25700/35549 recordings -> 100080 clips
+  25800/35549 recordings -> 100438 clips
+  25900/35549 recordings -> 100826 clips
+  26000/35549 recordings -> 101225 clips
+  26100/35549 recordings -> 101521 clips
+  26200/35549 recordings -> 101902 clips
+  26300/35549 recordings -> 102327 clips
+  26400/35549 recordings -> 102674 clips
+  26500/35549 recordings -> 103062 clips
+  26600/35549 recordings -> 103311 clips
+  26700/35549 recordings -> 103594 clips
+  26800/35549 recordings -> 104031 clips
+  26900/35549 recordings -> 104467 clips
+  27000/35549 recordings -> 104831 clips
+  27100/35549 recordings -> 105103 clips
+  27200/35549 recordings -> 105476 clips
+  27300/35549 recordings -> 105921 clips
+  27400/35549 recordings -> 106356 clips
+  27500/35549 recordings -> 106786 clips
+  27600/35549 recordings -> 107212 clips
+  27700/35549 recordings -> 107485 clips
+  27800/35549 recordings -> 107768 clips
+  27900/35549 recordings -> 108068 clips
+  28000/35549 recordings -> 108414 clips
+  28100/35549 recordings -> 108745 clips
+  28200/35549 recordings -> 109112 clips
+  28300/35549 recordings -> 109540 clips
+  28400/35549 recordings -> 109973 clips
+  28500/35549 recordings -> 110270 clips
+  28600/35549 recordings -> 110645 clips
+  28700/35549 recordings -> 110942 clips
+  28800/35549 recordings -> 111240 clips
+  28900/35549 recordings -> 111576 clips
+  29000/35549 recordings -> 111894 clips
+  29100/35549 recordings -> 112278 clips
+  29200/35549 recordings -> 112624 clips
+  29300/35549 recordings -> 112952 clips
+  29400/35549 recordings -> 113307 clips
+  29500/35549 recordings -> 113661 clips
+  29600/35549 recordings -> 114115 clips
+  29700/35549 recordings -> 114615 clips
+  29800/35549 recordings -> 115043 clips
+  29900/35549 recordings -> 115249 clips
+  30000/35549 recordings -> 115531 clips
+  30100/35549 recordings -> 115997 clips
+  30200/35549 recordings -> 116277 clips
+  30300/35549 recordings -> 116550 clips
+  30400/35549 recordings -> 116992 clips
+  30500/35549 recordings -> 117588 clips
+  30600/35549 recordings -> 118018 clips
+  30700/35549 recordings -> 118394 clips
+  30800/35549 recordings -> 118734 clips
+  30900/35549 recordings -> 119086 clips
+  31000/35549 recordings -> 119469 clips
+  31100/35549 recordings -> 119831 clips
+  31200/35549 recordings -> 120126 clips
+  31300/35549 recordings -> 120432 clips
+  31400/35549 recordings -> 120841 clips
+  31500/35549 recordings -> 121260 clips
+  31600/35549 recordings -> 121576 clips
+  31700/35549 recordings -> 121900 clips
+  31800/35549 recordings -> 122268 clips
+  31900/35549 recordings -> 122789 clips
+  32000/35549 recordings -> 123313 clips
+  32100/35549 recordings -> 123763 clips
+  32200/35549 recordings -> 124252 clips
+  32300/35549 recordings -> 124630 clips
+  32400/35549 recordings -> 125074 clips
+  32500/35549 recordings -> 125513 clips
+  32600/35549 recordings -> 125877 clips
+  32700/35549 recordings -> 126323 clips
+  32800/35549 recordings -> 126761 clips
+  32900/35549 recordings -> 127130 clips
+  33000/35549 recordings -> 127600 clips
+  33100/35549 recordings -> 127917 clips
+  33200/35549 recordings -> 128320 clips
+  33300/35549 recordings -> 128726 clips
+  33400/35549 recordings -> 129117 clips
+  33500/35549 recordings -> 129531 clips
+  33600/35549 recordings -> 129912 clips
+  33700/35549 recordings -> 130193 clips
+  33800/35549 recordings -> 130541 clips
+  33900/35549 recordings -> 131084 clips
+  34000/35549 recordings -> 131647 clips
+  34100/35549 recordings -> 132042 clips
+  34200/35549 recordings -> 132314 clips
+  34300/35549 recordings -> 132720 clips
+  34400/35549 recordings -> 132999 clips
+  34500/35549 recordings -> 133291 clips
+  34600/35549 recordings -> 133647 clips
+  34700/35549 recordings -> 134008 clips
+  34800/35549 recordings -> 134311 clips
+  34900/35549 recordings -> 134700 clips
+  35000/35549 recordings -> 135016 clips
+  35100/35549 recordings -> 135318 clips
+  35200/35549 recordings -> 135658 clips
+  35300/35549 recordings -> 136110 clips
+  35400/35549 recordings -> 136570 clips
+  35500/35549 recordings -> 136986 clips
+  35549/35549 recordings -> 137342 clips
+
+137342 clips from 33012 recordings
+
+by split:
+  train   96551 clips  (23143 recordings)
+  viz     20452 clips  (4947 recordings)
+  val     20339 clips  (4922 recordings)
+
+split integrity: OK (no recording spans two splits)
+
+2537 recordings skipped -> /workspace/bc26/data/interim/preprocess_problems_bc26.log
+  - birdclefinat_birdclef_iNat1264238: shorter than 1.0s after trim
+  - birdclefinat_birdclef_iNat1353836: shorter than 1.0s after trim
+  - birdclefinat_birdclef_iNat1460521: shorter than 1.0s after trim
+  - birdclefinat_birdclef_iNat1645288: shorter than 1.0s after trim
+  - birdclefinat_birdclef_iNat1693371: shorter than 1.0s after trim
+
+wrote /workspace/bc26/data/interim/clips_bc26.csv
+embedding 137342 clips  tag=bc26  checkpoint=iter3_plus_AS2M
+/venv/main/lib/python3.12/site-packages/torch/nn/utils/weight_norm.py:144: FutureWarning: `torch.nn.utils.weight_norm` is deprecated in favor of `torch.nn.utils.parametrizations.weight_norm`.
+  WeightNorm.apply(module, name, dim)
+loaded BEATs: embed_dim=768  pooling=mean device=cuda
+  shard 1/269  512/137342 clips  224.2 clips/s  eta 10.2 min
+  shard 2/269  1024/137342 clips  281.2 clips/s  eta 8.1 min
+  shard 3/269  1536/137342 clips  307.1 clips/s  eta 7.4 min
+  shard 4/269  2048/137342 clips  321.9 clips/s  eta 7.0 min
+  shard 5/269  2560/137342 clips  331.6 clips/s  eta 6.8 min
+  shard 6/269  3072/137342 clips  338.1 clips/s  eta 6.6 min
+  shard 7/269  3584/137342 clips  343.2 clips/s  eta 6.5 min
+  shard 8/269  4096/137342 clips  346.9 clips/s  eta 6.4 min
+  shard 9/269  4608/137342 clips  349.9 clips/s  eta 6.3 min
+  shard 10/269  5120/137342 clips  352.4 clips/s  eta 6.3 min
+  shard 11/269  5632/137342 clips  354.4 clips/s  eta 6.2 min
+  shard 12/269  6144/137342 clips  356.1 clips/s  eta 6.1 min
+  shard 13/269  6656/137342 clips  357.5 clips/s  eta 6.1 min
+  shard 14/269  7168/137342 clips  358.7 clips/s  eta 6.0 min
+  shard 15/269  7680/137342 clips  358.1 clips/s  eta 6.0 min
+  shard 16/269  8192/137342 clips  359.1 clips/s  eta 6.0 min
+  shard 17/269  8704/137342 clips  359.9 clips/s  eta 6.0 min
+  shard 18/269  9216/137342 clips  360.7 clips/s  eta 5.9 min
+  shard 19/269  9728/137342 clips  361.5 clips/s  eta 5.9 min
+  shard 20/269  10240/137342 clips  362.1 clips/s  eta 5.8 min
+  shard 21/269  10752/137342 clips  362.7 clips/s  eta 5.8 min
+  shard 22/269  11264/137342 clips  363.3 clips/s  eta 5.8 min
+  shard 23/269  11776/137342 clips  363.8 clips/s  eta 5.8 min
+  shard 24/269  12288/137342 clips  364.2 clips/s  eta 5.7 min
+  shard 25/269  12800/137342 clips  364.6 clips/s  eta 5.7 min
+  shard 26/269  13312/137342 clips  365.0 clips/s  eta 5.7 min
+  shard 27/269  13824/137342 clips  365.4 clips/s  eta 5.6 min
+  shard 28/269  14336/137342 clips  365.7 clips/s  eta 5.6 min
+  shard 29/269  14848/137342 clips  366.1 clips/s  eta 5.6 min
+  shard 30/269  15360/137342 clips  366.4 clips/s  eta 5.5 min
+  shard 31/269  15872/137342 clips  366.6 clips/s  eta 5.5 min
+  shard 32/269  16384/137342 clips  366.8 clips/s  eta 5.5 min
+  shard 33/269  16896/137342 clips  367.0 clips/s  eta 5.5 min
+  shard 34/269  17408/137342 clips  367.2 clips/s  eta 5.4 min
+  shard 35/269  17920/137342 clips  367.5 clips/s  eta 5.4 min
+  shard 36/269  18432/137342 clips  367.6 clips/s  eta 5.4 min
+  shard 37/269  18944/137342 clips  367.8 clips/s  eta 5.4 min
+  shard 38/269  19456/137342 clips  368.0 clips/s  eta 5.3 min
+  shard 39/269  19968/137342 clips  368.1 clips/s  eta 5.3 min
+  shard 40/269  20480/137342 clips  368.3 clips/s  eta 5.3 min
+  shard 41/269  20992/137342 clips  368.4 clips/s  eta 5.3 min
+  shard 42/269  21504/137342 clips  368.5 clips/s  eta 5.2 min
+  shard 43/269  22016/137342 clips  368.7 clips/s  eta 5.2 min
+  shard 44/269  22528/137342 clips  368.7 clips/s  eta 5.2 min
+  shard 45/269  23040/137342 clips  368.8 clips/s  eta 5.2 min
+  shard 46/269  23552/137342 clips  369.0 clips/s  eta 5.1 min
+  shard 47/269  24064/137342 clips  369.1 clips/s  eta 5.1 min
+  shard 48/269  24576/137342 clips  369.2 clips/s  eta 5.1 min
+  shard 49/269  25088/137342 clips  369.3 clips/s  eta 5.1 min
+  shard 50/269  25600/137342 clips  369.4 clips/s  eta 5.0 min
+  shard 51/269  26112/137342 clips  369.4 clips/s  eta 5.0 min
+  shard 52/269  26624/137342 clips  369.5 clips/s  eta 5.0 min
+  shard 53/269  27136/137342 clips  369.6 clips/s  eta 5.0 min
+  shard 54/269  27648/137342 clips  369.7 clips/s  eta 4.9 min
+  shard 55/269  28160/137342 clips  369.8 clips/s  eta 4.9 min
+  shard 56/269  28672/137342 clips  369.9 clips/s  eta 4.9 min
+  shard 57/269  29184/137342 clips  369.9 clips/s  eta 4.9 min
+  shard 58/269  29696/137342 clips  370.0 clips/s  eta 4.8 min
+  shard 59/269  30208/137342 clips  370.1 clips/s  eta 4.8 min
+  shard 60/269  30720/137342 clips  370.1 clips/s  eta 4.8 min
+  shard 61/269  31232/137342 clips  370.2 clips/s  eta 4.8 min
+  shard 62/269  31744/137342 clips  370.3 clips/s  eta 4.8 min
+  shard 63/269  32256/137342 clips  370.4 clips/s  eta 4.7 min
+  shard 64/269  32768/137342 clips  370.4 clips/s  eta 4.7 min
+  shard 65/269  33280/137342 clips  370.5 clips/s  eta 4.7 min
+  shard 66/269  33792/137342 clips  370.5 clips/s  eta 4.7 min
+  shard 67/269  34304/137342 clips  370.6 clips/s  eta 4.6 min
+  shard 68/269  34816/137342 clips  370.6 clips/s  eta 4.6 min
+  shard 69/269  35328/137342 clips  370.7 clips/s  eta 4.6 min
+  shard 70/269  35840/137342 clips  370.8 clips/s  eta 4.6 min
+  shard 71/269  36352/137342 clips  370.8 clips/s  eta 4.5 min
+  shard 72/269  36864/137342 clips  370.9 clips/s  eta 4.5 min
+  shard 73/269  37376/137342 clips  371.0 clips/s  eta 4.5 min
+  shard 74/269  37888/137342 clips  371.0 clips/s  eta 4.5 min
+  shard 75/269  38400/137342 clips  371.1 clips/s  eta 4.4 min
+  shard 76/269  38912/137342 clips  371.2 clips/s  eta 4.4 min
+  shard 77/269  39424/137342 clips  371.2 clips/s  eta 4.4 min
+  shard 78/269  39936/137342 clips  371.3 clips/s  eta 4.4 min
+  shard 79/269  40448/137342 clips  371.3 clips/s  eta 4.3 min
+  shard 80/269  40960/137342 clips  371.4 clips/s  eta 4.3 min
+  shard 81/269  41472/137342 clips  371.4 clips/s  eta 4.3 min
+  shard 82/269  41984/137342 clips  371.5 clips/s  eta 4.3 min
+  shard 83/269  42496/137342 clips  371.5 clips/s  eta 4.3 min
+  shard 84/269  43008/137342 clips  371.5 clips/s  eta 4.2 min
+  shard 85/269  43520/137342 clips  371.6 clips/s  eta 4.2 min
+  shard 86/269  44032/137342 clips  371.6 clips/s  eta 4.2 min
+  shard 87/269  44544/137342 clips  371.7 clips/s  eta 4.2 min
+  shard 88/269  45056/137342 clips  371.7 clips/s  eta 4.1 min
+  shard 89/269  45568/137342 clips  371.7 clips/s  eta 4.1 min
+  shard 90/269  46080/137342 clips  371.8 clips/s  eta 4.1 min
+  shard 91/269  46592/137342 clips  371.8 clips/s  eta 4.1 min
+  shard 92/269  47104/137342 clips  371.8 clips/s  eta 4.0 min
+  shard 93/269  47616/137342 clips  371.9 clips/s  eta 4.0 min
+  shard 94/269  48128/137342 clips  371.9 clips/s  eta 4.0 min
+  shard 95/269  48640/137342 clips  371.9 clips/s  eta 4.0 min
+  shard 96/269  49152/137342 clips  371.9 clips/s  eta 4.0 min
+  shard 97/269  49664/137342 clips  371.9 clips/s  eta 3.9 min
+  shard 98/269  50176/137342 clips  371.9 clips/s  eta 3.9 min
+  shard 99/269  50688/137342 clips  372.0 clips/s  eta 3.9 min
+  shard 100/269  51200/137342 clips  372.0 clips/s  eta 3.9 min
+  shard 101/269  51712/137342 clips  372.0 clips/s  eta 3.8 min
+  shard 102/269  52224/137342 clips  372.0 clips/s  eta 3.8 min
+  shard 103/269  52736/137342 clips  372.0 clips/s  eta 3.8 min
+  shard 104/269  53248/137342 clips  372.1 clips/s  eta 3.8 min
+  shard 105/269  53760/137342 clips  372.1 clips/s  eta 3.7 min
+  shard 106/269  54272/137342 clips  372.1 clips/s  eta 3.7 min
+  shard 107/269  54784/137342 clips  372.1 clips/s  eta 3.7 min
+  shard 108/269  55296/137342 clips  372.1 clips/s  eta 3.7 min
+  shard 109/269  55808/137342 clips  372.2 clips/s  eta 3.7 min
+  shard 110/269  56320/137342 clips  372.2 clips/s  eta 3.6 min
+  shard 111/269  56832/137342 clips  372.2 clips/s  eta 3.6 min
+  shard 112/269  57344/137342 clips  372.3 clips/s  eta 3.6 min
+  shard 113/269  57856/137342 clips  372.3 clips/s  eta 3.6 min
+  shard 114/269  58368/137342 clips  372.3 clips/s  eta 3.5 min
+  shard 115/269  58880/137342 clips  372.4 clips/s  eta 3.5 min
+  shard 116/269  59392/137342 clips  372.4 clips/s  eta 3.5 min
+  shard 117/269  59904/137342 clips  372.4 clips/s  eta 3.5 min
+  shard 118/269  60416/137342 clips  372.4 clips/s  eta 3.4 min
+  shard 119/269  60928/137342 clips  372.4 clips/s  eta 3.4 min
+  shard 120/269  61440/137342 clips  372.5 clips/s  eta 3.4 min
+  shard 121/269  61952/137342 clips  372.5 clips/s  eta 3.4 min
+  shard 122/269  62464/137342 clips  372.5 clips/s  eta 3.4 min
+  shard 123/269  62976/137342 clips  372.5 clips/s  eta 3.3 min
+  shard 124/269  63488/137342 clips  372.5 clips/s  eta 3.3 min
+  shard 125/269  64000/137342 clips  372.6 clips/s  eta 3.3 min
+  shard 126/269  64512/137342 clips  372.6 clips/s  eta 3.3 min
+  shard 127/269  65024/137342 clips  372.6 clips/s  eta 3.2 min
+  shard 128/269  65536/137342 clips  372.6 clips/s  eta 3.2 min
+  shard 129/269  66048/137342 clips  372.6 clips/s  eta 3.2 min
+  shard 130/269  66560/137342 clips  372.7 clips/s  eta 3.2 min
+  shard 131/269  67072/137342 clips  372.7 clips/s  eta 3.1 min
+  shard 132/269  67584/137342 clips  372.7 clips/s  eta 3.1 min
+  shard 133/269  68096/137342 clips  372.7 clips/s  eta 3.1 min
+  shard 134/269  68608/137342 clips  372.7 clips/s  eta 3.1 min
+  shard 135/269  69120/137342 clips  372.8 clips/s  eta 3.1 min
+  shard 136/269  69632/137342 clips  372.8 clips/s  eta 3.0 min
+  shard 137/269  70144/137342 clips  372.8 clips/s  eta 3.0 min
+  shard 138/269  70656/137342 clips  372.8 clips/s  eta 3.0 min
+  shard 139/269  71168/137342 clips  372.9 clips/s  eta 3.0 min
+  shard 140/269  71680/137342 clips  372.9 clips/s  eta 2.9 min
+  shard 141/269  72192/137342 clips  372.9 clips/s  eta 2.9 min
+  shard 142/269  72704/137342 clips  372.9 clips/s  eta 2.9 min
+  shard 143/269  73216/137342 clips  372.9 clips/s  eta 2.9 min
+  shard 144/269  73728/137342 clips  372.9 clips/s  eta 2.8 min
+  shard 145/269  74240/137342 clips  372.9 clips/s  eta 2.8 min
+  shard 146/269  74752/137342 clips  372.9 clips/s  eta 2.8 min
+  shard 147/269  75264/137342 clips  373.0 clips/s  eta 2.8 min
+  shard 148/269  75776/137342 clips  373.0 clips/s  eta 2.8 min
+  shard 149/269  76288/137342 clips  373.0 clips/s  eta 2.7 min
+  shard 150/269  76800/137342 clips  373.0 clips/s  eta 2.7 min
+  shard 151/269  77312/137342 clips  373.0 clips/s  eta 2.7 min
+  shard 152/269  77824/137342 clips  373.0 clips/s  eta 2.7 min
+  shard 153/269  78336/137342 clips  373.1 clips/s  eta 2.6 min
+  shard 154/269  78848/137342 clips  373.1 clips/s  eta 2.6 min
+  shard 155/269  79360/137342 clips  373.1 clips/s  eta 2.6 min
+  shard 156/269  79872/137342 clips  373.1 clips/s  eta 2.6 min
+  shard 157/269  80384/137342 clips  373.1 clips/s  eta 2.5 min
+  shard 158/269  80896/137342 clips  373.1 clips/s  eta 2.5 min
+  shard 159/269  81408/137342 clips  373.2 clips/s  eta 2.5 min
+  shard 160/269  81920/137342 clips  373.2 clips/s  eta 2.5 min
+  shard 161/269  82432/137342 clips  373.2 clips/s  eta 2.5 min
+  shard 162/269  82944/137342 clips  373.2 clips/s  eta 2.4 min
+  shard 163/269  83456/137342 clips  373.2 clips/s  eta 2.4 min
+  shard 164/269  83968/137342 clips  373.2 clips/s  eta 2.4 min
+  shard 165/269  84480/137342 clips  373.2 clips/s  eta 2.4 min
+  shard 166/269  84992/137342 clips  373.2 clips/s  eta 2.3 min
+  shard 167/269  85504/137342 clips  373.2 clips/s  eta 2.3 min
+  shard 168/269  86016/137342 clips  373.2 clips/s  eta 2.3 min
+  shard 169/269  86528/137342 clips  373.2 clips/s  eta 2.3 min
+  shard 170/269  87040/137342 clips  373.3 clips/s  eta 2.2 min
+  shard 171/269  87552/137342 clips  373.3 clips/s  eta 2.2 min
+  shard 172/269  88064/137342 clips  373.3 clips/s  eta 2.2 min
+  shard 173/269  88576/137342 clips  373.3 clips/s  eta 2.2 min
+  shard 174/269  89088/137342 clips  373.3 clips/s  eta 2.2 min
+  shard 175/269  89600/137342 clips  373.3 clips/s  eta 2.1 min
+  shard 176/269  90112/137342 clips  373.3 clips/s  eta 2.1 min
+  shard 177/269  90624/137342 clips  373.3 clips/s  eta 2.1 min
+  shard 178/269  91136/137342 clips  373.3 clips/s  eta 2.1 min
+  shard 179/269  91648/137342 clips  373.3 clips/s  eta 2.0 min
+  shard 180/269  92160/137342 clips  373.3 clips/s  eta 2.0 min
+  shard 181/269  92672/137342 clips  373.4 clips/s  eta 2.0 min
+  shard 182/269  93184/137342 clips  373.4 clips/s  eta 2.0 min
+  shard 183/269  93696/137342 clips  373.4 clips/s  eta 1.9 min
+  shard 184/269  94208/137342 clips  373.4 clips/s  eta 1.9 min
+  shard 185/269  94720/137342 clips  373.4 clips/s  eta 1.9 min
+  shard 186/269  95232/137342 clips  373.4 clips/s  eta 1.9 min
+  shard 187/269  95744/137342 clips  373.4 clips/s  eta 1.9 min
+  shard 188/269  96256/137342 clips  373.4 clips/s  eta 1.8 min
+  shard 189/269  96768/137342 clips  373.4 clips/s  eta 1.8 min
+  shard 190/269  97280/137342 clips  373.4 clips/s  eta 1.8 min
+  shard 191/269  97792/137342 clips  373.4 clips/s  eta 1.8 min
+  shard 192/269  98304/137342 clips  373.4 clips/s  eta 1.7 min
+  shard 193/269  98816/137342 clips  373.5 clips/s  eta 1.7 min
+  shard 194/269  99328/137342 clips  373.5 clips/s  eta 1.7 min
+  shard 195/269  99840/137342 clips  373.5 clips/s  eta 1.7 min
+  shard 196/269  100352/137342 clips  373.5 clips/s  eta 1.7 min
+  shard 197/269  100864/137342 clips  373.5 clips/s  eta 1.6 min
+  shard 198/269  101376/137342 clips  373.5 clips/s  eta 1.6 min
+  shard 199/269  101888/137342 clips  373.5 clips/s  eta 1.6 min
+  shard 200/269  102400/137342 clips  373.5 clips/s  eta 1.6 min
+  shard 201/269  102912/137342 clips  373.5 clips/s  eta 1.5 min
+  shard 202/269  103424/137342 clips  373.5 clips/s  eta 1.5 min
+  shard 203/269  103936/137342 clips  373.5 clips/s  eta 1.5 min
+  shard 204/269  104448/137342 clips  373.5 clips/s  eta 1.5 min
+  shard 205/269  104960/137342 clips  373.5 clips/s  eta 1.4 min
+  shard 206/269  105472/137342 clips  373.5 clips/s  eta 1.4 min
+  shard 207/269  105984/137342 clips  373.6 clips/s  eta 1.4 min
+  shard 208/269  106496/137342 clips  373.6 clips/s  eta 1.4 min
+  shard 209/269  107008/137342 clips  373.6 clips/s  eta 1.4 min
+  shard 210/269  107520/137342 clips  373.6 clips/s  eta 1.3 min
+  shard 211/269  108032/137342 clips  373.6 clips/s  eta 1.3 min
+  shard 212/269  108544/137342 clips  373.6 clips/s  eta 1.3 min
+  shard 213/269  109056/137342 clips  373.6 clips/s  eta 1.3 min
+  shard 214/269  109568/137342 clips  373.6 clips/s  eta 1.2 min
+  shard 215/269  110080/137342 clips  373.6 clips/s  eta 1.2 min
+  shard 216/269  110592/137342 clips  373.6 clips/s  eta 1.2 min
+  shard 217/269  111104/137342 clips  373.6 clips/s  eta 1.2 min
+  shard 218/269  111616/137342 clips  373.6 clips/s  eta 1.1 min
+  shard 219/269  112128/137342 clips  373.5 clips/s  eta 1.1 min
+  shard 220/269  112640/137342 clips  373.5 clips/s  eta 1.1 min
+  shard 221/269  113152/137342 clips  373.5 clips/s  eta 1.1 min
+  shard 222/269  113664/137342 clips  373.4 clips/s  eta 1.1 min
+  shard 223/269  114176/137342 clips  373.4 clips/s  eta 1.0 min
+  shard 224/269  114688/137342 clips  373.4 clips/s  eta 1.0 min
+  shard 225/269  115200/137342 clips  373.4 clips/s  eta 1.0 min
+  shard 226/269  115712/137342 clips  373.4 clips/s  eta 1.0 min
+  shard 227/269  116224/137342 clips  373.4 clips/s  eta 0.9 min
+  shard 228/269  116736/137342 clips  373.4 clips/s  eta 0.9 min
+  shard 229/269  117248/137342 clips  373.4 clips/s  eta 0.9 min
+  shard 230/269  117760/137342 clips  373.4 clips/s  eta 0.9 min
+  shard 231/269  118272/137342 clips  373.4 clips/s  eta 0.9 min
+  shard 232/269  118784/137342 clips  373.4 clips/s  eta 0.8 min
+  shard 233/269  119296/137342 clips  373.4 clips/s  eta 0.8 min
+  shard 234/269  119808/137342 clips  373.4 clips/s  eta 0.8 min
+  shard 235/269  120320/137342 clips  373.4 clips/s  eta 0.8 min
+  shard 236/269  120832/137342 clips  373.4 clips/s  eta 0.7 min
+  shard 237/269  121344/137342 clips  373.4 clips/s  eta 0.7 min
+  shard 238/269  121856/137342 clips  373.4 clips/s  eta 0.7 min
+  shard 239/269  122368/137342 clips  373.4 clips/s  eta 0.7 min
+  shard 240/269  122880/137342 clips  373.4 clips/s  eta 0.6 min
+  shard 241/269  123392/137342 clips  373.4 clips/s  eta 0.6 min
+  shard 242/269  123904/137342 clips  373.4 clips/s  eta 0.6 min
+  shard 243/269  124416/137342 clips  373.4 clips/s  eta 0.6 min
+  shard 244/269  124928/137342 clips  373.4 clips/s  eta 0.6 min
+  shard 245/269  125440/137342 clips  373.5 clips/s  eta 0.5 min
+  shard 246/269  125952/137342 clips  373.5 clips/s  eta 0.5 min
+  shard 247/269  126464/137342 clips  373.5 clips/s  eta 0.5 min
+  shard 248/269  126976/137342 clips  373.5 clips/s  eta 0.5 min
+  shard 249/269  127488/137342 clips  373.5 clips/s  eta 0.4 min
+  shard 250/269  128000/137342 clips  373.5 clips/s  eta 0.4 min
+  shard 251/269  128512/137342 clips  373.5 clips/s  eta 0.4 min
+  shard 252/269  129024/137342 clips  373.5 clips/s  eta 0.4 min
+  shard 253/269  129536/137342 clips  373.5 clips/s  eta 0.3 min
+  shard 254/269  130048/137342 clips  373.5 clips/s  eta 0.3 min
+  shard 255/269  130560/137342 clips  373.5 clips/s  eta 0.3 min
+  shard 256/269  131072/137342 clips  373.5 clips/s  eta 0.3 min
+  shard 257/269  131584/137342 clips  373.5 clips/s  eta 0.3 min
+  shard 258/269  132096/137342 clips  373.5 clips/s  eta 0.2 min
+  shard 259/269  132608/137342 clips  373.5 clips/s  eta 0.2 min
+  shard 260/269  133120/137342 clips  373.5 clips/s  eta 0.2 min
+  shard 261/269  133632/137342 clips  373.5 clips/s  eta 0.2 min
+  shard 262/269  134144/137342 clips  373.6 clips/s  eta 0.1 min
+  shard 263/269  134656/137342 clips  373.6 clips/s  eta 0.1 min
+  shard 264/269  135168/137342 clips  373.6 clips/s  eta 0.1 min
+  shard 265/269  135680/137342 clips  373.6 clips/s  eta 0.1 min
+  shard 266/269  136192/137342 clips  373.6 clips/s  eta 0.1 min
+  shard 267/269  136704/137342 clips  373.6 clips/s  eta 0.0 min
+  shard 268/269  137216/137342 clips  373.6 clips/s  eta 0.0 min
+  shard 269/269  137342/137342 clips  373.6 clips/s  eta 0.0 min
+
+embeddings: (137342, 768)  dtype=float32
+finite    : True
+elapsed   : 6.2 min
+wrote     : /workspace/bc26/data/embeddings/embeddings_bc26.npy
+# Embedding analysis -- tag `bc26`
+
+- points: **137,342** clips from **33,012** recordings
+- dimensions: **768**
+- species: **206**
+- sources: birdclef-inat, birdclef-xc
+
+- PCA variance explained: PC1-2 **13.8%**, PC1-10 **38.3%**, PC1-50 **68.6%**
+
+## Species separability (k=10 NN, same-recording neighbours excluded)
+
+- **26.0%** of neighbours share the query's species (chance = 0.9%, so **29.9x** chance)
+
+| rank | species | common name | kNN purity |
+|---|---|---|---|
+| 1 | `rufnig1` | Rufous Nightjar | 73.5% |
+| 2 | `244024` | Giant Cicada | 67.0% |
+| 3 | `738183` | White-coated Titi | 65.0% |
+| 4 | `67107` | Rococo Toad | 65.0% |
+| 5 | `batbel1` | Bare-throated Bellbird | 64.9% |
+| 6 | `gycwor1` | Grey-cowled Wood Rail | 63.9% |
+| 7 | `43435` | Black Howling Monkey | 59.6% |
+| 8 | `24279` | Lesser Snouted Tree Frog | 57.1% |
+| 9 | `relser1` | Red-legged Seriema | 56.5% |
+| 10 | `astcra1` | Ash-throated Crake | 55.4% |
+| 11 | `soulap1` | Southern Lapwing | 53.5% |
+| 12 | `purjay1` | Purplish Jay | 52.1% |
+| 13 | `spispi1` | Spix's Spinetail | 47.8% |
+| 14 | `horscr1` | Horned Screamer | 47.1% |
+| 15 | `hyamac1` | Hyacinth Macaw | 46.0% |
+| 16 | `magant1` | Mato Grosso Antbird | 45.7% |
+| 17 | `chacha1` | Chaco Chachalaca | 45.0% |
+| 18 | `trsowl` | Tropical Screech Owl | 43.4% |
+| 19 | `41970` | Jaguar | 43.1% |
+| 20 | `rubthr1` | Rufous-bellied Thrush | 43.0% |
+| 21 | `phecuc1` | Pheasant Cuckoo | 42.6% |
+| 22 | `baffal1` | Barred Forest-Falcon | 42.3% |
+| 23 | `cibspi1` | Cinereous-breasted Spinetail | 42.1% |
+| 24 | `greani1` | Greater Ani | 41.9% |
+| 25 | `24287` | Brown-bordered Snouted Tree Frog | 41.2% |
+| 26 | `ocecra1` | Ocellated Crake | 40.9% |
+| 27 | `litnig1` | Little Nightjar | 40.4% |
+| 28 | `22956` | Mustached Frog | 40.0% |
+| 29 | `toctou1` | Toco Toucan | 39.5% |
+| 30 | `bucpar` | Blue-crowned Parakeet | 39.5% |
+| 31 | `brnowl` | American Barn Owl | 38.9% |
+| 32 | `1595929` | Uruguay Harlequin Frog | 38.7% |
+| 33 | `25092` | Two-colored oval frog | 38.5% |
+| 34 | `bbwduc` | Black-bellied Whistling Duck | 37.4% |
+| 35 | `flawar1` | Flavescent Warbler | 37.3% |
+| 36 | `rufcac2` | Rufous Cacholote | 37.0% |
+| 37 | `74113` | Highland | 36.7% |
+| 38 | `ragmac1` | Red-and-green Macaw | 36.0% |
+| 39 | `rinkin1` | Ringed Kingfisher | 35.2% |
+| 40 | `swtman1` | Swallow-tailed Manakin | 34.6% |
+| 41 | `houspa` | House Sparrow | 33.8% |
+| 42 | `326272` | Weeping Frog | 33.6% |
+| 43 | `greant1` | Great Antshrike | 33.5% |
+| 44 | `coffal1` | Collared Forest-Falcon | 33.2% |
+| 45 | `bkhpar` | Nanday Parakeet | 32.9% |
+| 46 | `redjun` | Red Junglefowl | 31.9% |
+| 47 | `760266` | Prionacris erosa | 31.9% |
+| 48 | `baymac` | Blue-and-yellow Macaw | 31.9% |
+| 49 | `bunibi1` | Buff-necked Ibis | 31.5% |
+| 50 | `pluibi1` | Plumbeous Ibis | 31.2% |
+| 51 | `compot1` | Common Potoo | 30.9% |
+| 52 | `pabspi1` | Pale-breasted Spinetail | 30.3% |
+| 53 | `grfdov1` | Grey-fronted Dove | 30.3% |
+| 54 | `bucmot4` | Amazonian Motmot | 30.2% |
+| 55 | `fepowl` | Ferruginous Pygmy Owl | 29.8% |
+| 56 | `undtin1` | Undulated Tinamou | 29.8% |
+| 57 | `wesfie1` | Western Fire-eye | 29.6% |
+| 58 | `orwpar` | Orange-winged Amazon | 29.6% |
+| 59 | `compau` | Pauraque | 29.4% |
+| 60 | `23158` | Pale-legged Weeping Frog | 29.3% |
+| 61 | `22983` | Pepper Frog | 29.3% |
+| 62 | `rivwar1` | Riverbank Warbler | 29.2% |
+| 63 | `barant1` | Barred Antshrike | 29.0% |
+| 64 | `limpki` | Limpkin | 28.8% |
+| 65 | `yecpar` | Yellow-chevroned Parakeet | 28.5% |
+| 66 | `varant1` | Variable Antshrike | 28.2% |
+| 67 | `bufpar` | Turquoise-fronted Amazon | 27.7% |
+| 68 | `whbwar2` | White-browed Warbler | 27.6% |
+| 69 | `24285` | Snouted Tree Frog | 27.4% |
+| 70 | `smbani` | Smooth-billed Ani | 26.9% |
+| 71 | `1161364` | Guyalna cuta | 26.8% |
+| 72 | `ruftho1` | Rufous-fronted Thornbird | 26.6% |
+| 73 | `scther1` | Scale-throated Hermit | 26.0% |
+| 74 | `watjac1` | Wattled Jacana | 25.9% |
+| 75 | `giwrai1` | Giant Wood Rail | 25.8% |
+| 76 | `scadov1` | Scaled Dove | 25.8% |
+| 77 | `grekis` | Great Kiskadee | 25.5% |
+| 78 | `bncfly` | Brown-crested Flycatcher | 25.1% |
+| 79 | `whtdov` | White-tipped Dove | 24.9% |
+| 80 | `spbant3` | Spot-backed Antshrike | 24.8% |
+| 81 | `banana` | Bananaquit | 24.7% |
+| 82 | `22973` | Whistling Grass Frog | 24.4% |
+| 83 | `roahaw` | Roadside Hawk | 24.4% |
+| 84 | `mabpar` | Maroon-bellied Parakeet | 24.4% |
+| 85 | `bkcdon` | Black-capped Donacobius | 23.4% |
+| 86 | `rufhor2` | Rufous Hornero | 23.3% |
+| 87 | `65377` | Lesser Tree Frog | 23.3% |
+| 88 | `souscr1` | Southern Screamer | 23.1% |
+| 89 | `plasla1` | Planalto Slaty Antshrike | 23.1% |
+| 90 | `crbthr1` | Creamy-bellied Thrush | 22.9% |
+| 91 | `65380` | Dwarf Tree Frog | 22.9% |
+| 92 | `greyel` | Greater Yellowlegs | 22.7% |
+| 93 | `wfwduc1` | White-faced Whistling Duck | 22.4% |
+| 94 | `whnjay1` | White-naped Jay | 22.3% |
+| 95 | `saffin` | Saffron Finch | 22.3% |
+| 96 | `23176` | Cope's Swamp Froglet | 22.2% |
+| 97 | `ficman1` | Fiery-capped Manakin | 22.0% |
+| 98 | `picpig2` | Picazuro Pigeon | 21.7% |
+| 99 | `schpar1` | Scaly-headed Parrot | 21.6% |
+| 100 | `osprey` | Osprey | 21.2% |
+| 101 | `burowl` | Burrowing Owl | 21.2% |
+| 102 | `oliwoo1` | Olivaceous Woodcreeper | 20.9% |
+| 103 | `chobla1` | Chopi Blackbird | 20.7% |
+| 104 | `thlwre1` | Thrush-like Wren | 20.5% |
+| 105 | `22967` | Marbled White-lipped Frog | 20.4% |
+| 106 | `bobfly1` | Boat-billed Flycatcher | 20.3% |
+| 107 | `ruther1` | Rufescent Tiger Heron | 20.1% |
+| 108 | `whiwoo1` | White Woodpecker | 19.4% |
+| 109 | `sofspi1` | Sooty-fronted Spinetail | 19.4% |
+| 110 | `555146` | Chaco Tree Frog | 19.3% |
+| 111 | `fotfly` | Fork-tailed Flycatcher | 19.2% |
+| 112 | `strcuc1` | Striped Cuckoo | 19.1% |
+| 113 | `rumfly1` | Rusty-margined Flycatcher | 18.8% |
+| 114 | `whbant2` | White-bearded Antshrike | 18.8% |
+| 115 | `recfin1` | Red-crested Finch | 18.8% |
+| 116 | `pirfly1` | Piratic Flycatcher | 18.5% |
+| 117 | `gretho2` | Greater Thornbird | 18.3% |
+| 118 | `stbwoo2` | Straight-billed Woodcreeper | 17.7% |
+| 119 | `blttit1` | Black-tailed Tityra | 17.6% |
+| 120 | `y00678` | Crested Caracara | 17.4% |
+| 121 | `swthum1` | Swallow-tailed Hummingbird | 17.3% |
+| 122 | `yeofly1` | Yellow-olive Flatbill | 17.1% |
+| 123 | `chvcon1` | Chestnut-vented Conebill | 17.0% |
+| 124 | `squcuc1` | Common Squirrel-Cuckoo | 16.8% |
+| 125 | `fusfly1` | Fuscous Flycatcher | 16.8% |
+| 126 | `linwoo1` | Lineated Woodpecker | 16.6% |
+| 127 | `plcjay1` | Plush-crested Jay | 16.5% |
+| 128 | `bcwfin2` | Black-capped Warbling Finch | 16.4% |
+| 129 | `lesgrf1` | Lesser Grass-Finch | 16.2% |
+| 130 | `grepot1` | Great Potoo | 16.0% |
+| 131 | `trokin` | Tropical Kingbird | 15.9% |
+| 132 | `eulfly1` | Euler's Flycatcher | 15.9% |
+| 133 | `pvttyr1` | Pearly-vented Tody-Tyrant | 15.8% |
+| 134 | `glteme1` | Glittering-throated Emerald | 15.6% |
+| 135 | `whlspi1` | White-lored Spinetail | 15.5% |
+| 136 | `yecmac` | Golden-collared Macaw | 15.5% |
+| 137 | `greela` | Greenish Elaenia | 15.4% |
+| 138 | `paltan1` | Palm Tanager | 15.3% |
+| 139 | `sibtan2` | Silver-beaked Tanager | 15.2% |
+| 140 | `67252` | Milk Frog | 15.0% |
+| 141 | `chbmoc1` | Chalk-browed Mockingbird | 15.0% |
+| 142 | `rutjac1` | Rufous-tailed Jacamar | 14.8% |
+| 143 | `grasal3` | Bluish-grey Saltator | 14.8% |
+| 144 | `saytan1` | Sayaca Tanager | 14.5% |
+| 145 | `fabwre1` | Fawn-breasted Wren | 14.5% |
+| 146 | `socfly1` | Social Flycatcher | 14.4% |
+| 147 | `ruftof1` | Rusty-fronted Tody-Flycatcher | 14.4% |
+| 148 | `ashgre1` | Ashy-headed Greenlet | 14.1% |
+| 149 | `22985` | Peter's Jungle Frog | 14.0% |
+| 150 | `shshaw` | Sharp-shinned Hawk | 13.9% |
+| 151 | `palhor3` | Pale-legged Hornero | 13.9% |
+| 152 | `souant1` | Southern Antpipit | 13.6% |
+| 153 | `gilhum1` | Gilded Hummingbird | 13.1% |
+| 154 | `strowl1` | Striped Owl | 13.1% |
+| 155 | `sobcac1` | Solitary Cacique | 13.0% |
+| 156 | `bafcur1` | Bare-faced Curassow | 12.9% |
+| 157 | `epaori4` | Variable Oriole | 12.9% |
+| 158 | `555145` | Polka-dot Tree Frog | 12.8% |
+| 159 | `yebela1` | Yellow-bellied Elaenia | 12.7% |
+| 160 | `sobtyr1` | Southern Beardless Tyrannulet | 12.6% |
+| 161 | `masgna1` | Masked Gnatcatcher | 12.6% |
+| 162 | `platyr1` | Plain Inezia | 12.5% |
+| 163 | `nacnig1` | Nacunda Nighthawk | 12.4% |
+| 164 | `shtnig1` | Short-tailed Nighthawk | 12.1% |
+| 165 | `grhtan1` | Grey-headed Tanager | 11.9% |
+| 166 | `lesela1` | Lesser Elaenia | 11.3% |
+| 167 | `66971` | Paraguayan Swimming Frog | 11.1% |
+| 168 | `smbtin1` | Small-billed Tinamou | 11.1% |
+| 169 | `orbtro3` | Orange-backed Troupial | 11.1% |
+| 170 | `sabspa1` | Saffron-billed Sparrow | 10.9% |
+| 171 | `blchaw1` | Black-collared Hawk | 10.5% |
+| 172 | `dwatin1` | Dwarf Tinamou | 10.4% |
+| 173 | `camfli1` | Campo Flicker | 10.4% |
+| 174 | `rebscy1` | Red-billed Scythebill | 9.8% |
+| 175 | `tattin1` | Tataupa Tinamou | 9.8% |
+| 176 | `blheag1` | Black Hawk-Eagle | 9.3% |
+| 177 | `rufgna3` | Rufous Gnateater | 9.1% |
+| 178 | `brcmar1` | Brown-chested Martin | 7.9% |
+| 179 | `crebec1` | Crested Becard | 7.8% |
+| 180 | `litcuc2` | Little Cuckoo | 7.6% |
+| 181 | `64898` | Yungas de la Paz Poison Frog | 6.9% |
+| 182 | `shcfly1` | Short-crested Flycatcher | 6.8% |
+| 183 | `larela1` | Large Elaenia | 6.1% |
+| 184 | `strher2` | Striated Heron | 5.8% |
+| 185 | `yehcar1` | Yellow-headed Caracara | 5.6% |
+| 186 | `magtan2` | Magpie Tanager | 4.5% |
+| 187 | `whwpic1` | White-wedged Piculet | 4.5% |
+| 188 | `47144` | Domestic Dog | 4.0% |
+| 189 | `rufcas2` | Rufous Casiornis | 3.9% |
+| 190 | `1176823` | Wrestler Frog | 3.0% |
+| 191 | `25214` | Muller's Termite Frog | 2.9% |
+| 192 | `22930` | Basin White-lipped Frog | 2.3% |
+| 193 | `yebcar` | Yellow-billed Cardinal | 2.3% |
+| 194 | `22961` | Pointedbelly Frog | 0.8% |
+| 195 | `23154` | Bahia Dwarf Frog | 0.8% |
+| 196 | `116570` | Southern Spectacled Caiman | 0.0% |
+| 197 | `209233` | Feral Horse | 0.0% |
+| 198 | `23150` | Central Dwarf Frog | 0.0% |
+| 199 | `23724` | Waxy Monkey Tree Frog | 0.0% |
+| 200 | `24321` | Mato Grosso Snouted Tree Frog | 0.0% |
+| 201 | `476521` | Cuyaba Dwarf Frog | 0.0% |
+| 202 | `516975` | Hooded Capuchin | 0.0% |
+| 203 | `555123` | Usina Tree Frog | 0.0% |
+| 204 | `70711` | Cei's White-lipped Frog | 0.0% |
+| 205 | `74580` | Black-tailed Marmoset | 0.0% |
+| 206 | `sptnig1` | Spot-tailed Nightjar | 0.0% |
+
+**Tightest:** rufnig1 (74%), 244024 (67%), 738183 (65%)
+**Most overlapped:** 70711 (0%), 74580 (0%), sptnig1 (0%)
+
+## Species purity by taxon class
+
+| class | species | clips | mean species purity |
+|---|---|---|---|
+| Aves | 162 | 134,450 | 23.5% |
+| Amphibia | 32 | 1,756 | 18.8% |
+| Insecta | 3 | 814 | 41.9% |
+| Mammalia | 8 | 321 | 26.0% |
+| Reptilia | 1 | 1 | 0.0% |
+
+## Dataset-source batch effect
+
+- **82.8%** of neighbours share the query's source (chance = 63.7%, **1.3x**)
+
+  - `birdclef-xc`: 90.3%
+  - `birdclef-inat`: 58.8%
+
+Reading: no strong batch effect at this k.
+
+
+wrote /workspace/bc26/exports/bc26/analysis.md
+PIPELINE_DONE

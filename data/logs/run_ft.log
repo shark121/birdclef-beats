@@ -1,0 +1,350 @@
+[32mActivated conda/uv virtual environment at [36m/venv/main[0m
+/venv/main/lib/python3.12/site-packages/torch/nn/utils/weight_norm.py:144: FutureWarning: `torch.nn.utils.weight_norm` is deprecated in favor of `torch.nn.utils.parametrizations.weight_norm`.
+  WeightNorm.apply(module, name, dim)
+classes 206  train 96551  val 20339  viz 20452  steps/epoch 754
+  ep 1 step 100/7540  loss 5.325  262 clips/s
+  ep 1 step 200/7540  loss 4.987  279 clips/s
+  ep 1 step 300/7540  loss 4.521  281 clips/s
+  ep 1 step 400/7540  loss 4.178  284 clips/s
+  ep 1 step 500/7540  loss 3.901  287 clips/s
+  ep 1 step 600/7540  loss 3.698  288 clips/s
+  ep 1 step 700/7540  loss 3.547  290 clips/s
+epoch 1: val clip_acc 0.629  macro_f1 0.577  rec_acc 0.720  (6.2 min)
+  ep 2 step 800/7540  loss 2.501  281 clips/s
+  ep 2 step 900/7540  loss 2.372  286 clips/s
+  ep 2 step 1000/7540  loss 2.376  290 clips/s
+  ep 2 step 1100/7540  loss 2.333  290 clips/s
+  ep 2 step 1200/7540  loss 2.321  289 clips/s
+  ep 2 step 1300/7540  loss 2.303  286 clips/s
+  ep 2 step 1400/7540  loss 2.289  287 clips/s
+  ep 2 step 1500/7540  loss 2.273  289 clips/s
+epoch 2: val clip_acc 0.669  macro_f1 0.630  rec_acc 0.758  (6.2 min)
+  ep 3 step 1600/7540  loss 2.219  289 clips/s
+  ep 3 step 1700/7540  loss 2.175  287 clips/s
+  ep 3 step 1800/7540  loss 2.172  287 clips/s
+  ep 3 step 1900/7540  loss 2.180  287 clips/s
+  ep 3 step 2000/7540  loss 2.166  286 clips/s
+  ep 3 step 2100/7540  loss 2.140  287 clips/s
+  ep 3 step 2200/7540  loss 2.134  288 clips/s
+epoch 3: val clip_acc 0.688  macro_f1 0.645  rec_acc 0.783  (6.3 min)
+  ep 4 step 2300/7540  loss 2.216  272 clips/s
+  ep 4 step 2400/7540  loss 2.128  273 clips/s
+  ep 4 step 2500/7540  loss 2.069  282 clips/s
+  ep 4 step 2600/7540  loss 2.070  286 clips/s
+  ep 4 step 2700/7540  loss 2.074  286 clips/s
+  ep 4 step 2800/7540  loss 2.051  287 clips/s
+  ep 4 step 2900/7540  loss 2.042  286 clips/s
+  ep 4 step 3000/7540  loss 2.022  285 clips/s
+epoch 4: val clip_acc 0.695  macro_f1 0.648  rec_acc 0.784  (6.3 min)
+  ep 5 step 3100/7540  loss 1.871  286 clips/s
+  ep 5 step 3200/7540  loss 1.965  289 clips/s
+  ep 5 step 3300/7540  loss 1.932  291 clips/s
+  ep 5 step 3400/7540  loss 1.917  291 clips/s
+  ep 5 step 3500/7540  loss 1.908  291 clips/s
+  ep 5 step 3600/7540  loss 1.906  291 clips/s
+  ep 5 step 3700/7540  loss 1.904  290 clips/s
+epoch 5: val clip_acc 0.706  macro_f1 0.661  rec_acc 0.799  (6.2 min)
+  ep 6 step 3800/7540  loss 1.835  272 clips/s
+  ep 6 step 3900/7540  loss 1.841  286 clips/s
+  ep 6 step 4000/7540  loss 1.830  288 clips/s
+  ep 6 step 4100/7540  loss 1.817  290 clips/s
+  ep 6 step 4200/7540  loss 1.804  291 clips/s
+  ep 6 step 4300/7540  loss 1.811  291 clips/s
+  ep 6 step 4400/7540  loss 1.823  291 clips/s
+  ep 6 step 4500/7540  loss 1.807  291 clips/s
+epoch 6: val clip_acc 0.703  macro_f1 0.665  rec_acc 0.799  (6.1 min)
+  ep 7 step 4600/7540  loss 1.771  291 clips/s
+  ep 7 step 4700/7540  loss 1.794  291 clips/s
+  ep 7 step 4800/7540  loss 1.815  287 clips/s
+  ep 7 step 4900/7540  loss 1.817  289 clips/s
+  ep 7 step 5000/7540  loss 1.790  289 clips/s
+  ep 7 step 5100/7540  loss 1.767  290 clips/s
+  ep 7 step 5200/7540  loss 1.750  290 clips/s
+epoch 7: val clip_acc 0.712  macro_f1 0.669  rec_acc 0.810  (6.2 min)
+  ep 8 step 5300/7540  loss 1.998  255 clips/s
+  ep 8 step 5400/7540  loss 1.761  285 clips/s
+  ep 8 step 5500/7540  loss 1.806  288 clips/s
+  ep 8 step 5600/7540  loss 1.789  291 clips/s
+  ep 8 step 5700/7540  loss 1.773  292 clips/s
+  ep 8 step 5800/7540  loss 1.751  291 clips/s
+  ep 8 step 5900/7540  loss 1.752  291 clips/s
+  ep 8 step 6000/7540  loss 1.725  292 clips/s
+epoch 8: val clip_acc 0.714  macro_f1 0.670  rec_acc 0.811  (6.1 min)
+  ep 9 step 6100/7540  loss 1.791  283 clips/s
+  ep 9 step 6200/7540  loss 1.782  289 clips/s
+  ep 9 step 6300/7540  loss 1.750  289 clips/s
+  ep 9 step 6400/7540  loss 1.732  290 clips/s
+  ep 9 step 6500/7540  loss 1.728  289 clips/s
+  ep 9 step 6600/7540  loss 1.756  289 clips/s
+  ep 9 step 6700/7540  loss 1.759  290 clips/s
+epoch 9: val clip_acc 0.712  macro_f1 0.668  rec_acc 0.811  (6.2 min)
+  ep 10 step 6800/7540  loss 1.760  254 clips/s
+  ep 10 step 6900/7540  loss 1.736  289 clips/s
+  ep 10 step 7000/7540  loss 1.698  288 clips/s
+  ep 10 step 7100/7540  loss 1.719  290 clips/s
+  ep 10 step 7200/7540  loss 1.720  290 clips/s
+  ep 10 step 7300/7540  loss 1.741  291 clips/s
+  ep 10 step 7400/7540  loss 1.734  291 clips/s
+  ep 10 step 7500/7540  loss 1.729  291 clips/s
+epoch 10: val clip_acc 0.713  macro_f1 0.669  rec_acc 0.812  (6.1 min)
+{
+  "best_epoch": 8,
+  "val": {
+    "clip_acc": 0.7135060720782733,
+    "macro_f1": 0.6695206190326178,
+    "rec_acc": 0.8108492482730597
+  },
+  "test_viz": {
+    "clip_acc": 0.7229121846274204,
+    "macro_f1": 0.6843704863092399,
+    "rec_acc": 0.8124115625631696
+  }
+}
+wrote embeddings_bc26_ft.npy (137342, 768) and /workspace/bc26/exports/bc26_ft/finetune_result.json
+# Embedding analysis -- tag `bc26_ft`
+
+- points: **137,342** clips from **33,012** recordings
+- dimensions: **768**
+- species: **206**
+- sources: birdclef-inat, birdclef-xc
+
+- PCA variance explained: PC1-2 **11.2%**, PC1-10 **22.6%**, PC1-50 **49.5%**
+
+## Species separability (k=10 NN, same-recording neighbours excluded)
+
+- **70.6%** of neighbours share the query's species (chance = 0.9%, so **81.1x** chance)
+
+| rank | species | common name | kNN purity |
+|---|---|---|---|
+| 1 | `baffal1` | Barred Forest-Falcon | 94.4% |
+| 2 | `rufnig1` | Rufous Nightjar | 93.7% |
+| 3 | `67107` | Rococo Toad | 92.8% |
+| 4 | `spispi1` | Spix's Spinetail | 91.8% |
+| 5 | `batbel1` | Bare-throated Bellbird | 91.6% |
+| 6 | `738183` | White-coated Titi | 91.5% |
+| 7 | `gycwor1` | Grey-cowled Wood Rail | 89.3% |
+| 8 | `pabspi1` | Pale-breasted Spinetail | 89.3% |
+| 9 | `244024` | Giant Cicada | 89.3% |
+| 10 | `760266` | Prionacris erosa | 88.6% |
+| 11 | `scther1` | Scale-throated Hermit | 87.4% |
+| 12 | `toctou1` | Toco Toucan | 86.9% |
+| 13 | `bkhpar` | Nanday Parakeet | 86.8% |
+| 14 | `scadov1` | Scaled Dove | 86.8% |
+| 15 | `23176` | Cope's Swamp Froglet | 86.7% |
+| 16 | `swtman1` | Swallow-tailed Manakin | 86.5% |
+| 17 | `soulap1` | Southern Lapwing | 86.1% |
+| 18 | `22973` | Whistling Grass Frog | 85.6% |
+| 19 | `astcra1` | Ash-throated Crake | 85.0% |
+| 20 | `litnig1` | Little Nightjar | 84.7% |
+| 21 | `pirfly1` | Piratic Flycatcher | 84.7% |
+| 22 | `bucmot4` | Amazonian Motmot | 84.7% |
+| 23 | `43435` | Black Howling Monkey | 84.2% |
+| 24 | `strcuc1` | Striped Cuckoo | 84.2% |
+| 25 | `houspa` | House Sparrow | 84.1% |
+| 26 | `relser1` | Red-legged Seriema | 83.7% |
+| 27 | `phecuc1` | Pheasant Cuckoo | 83.5% |
+| 28 | `sofspi1` | Sooty-fronted Spinetail | 83.3% |
+| 29 | `coffal1` | Collared Forest-Falcon | 82.8% |
+| 30 | `compau` | Pauraque | 82.8% |
+| 31 | `bucpar` | Blue-crowned Parakeet | 82.8% |
+| 32 | `cibspi1` | Cinereous-breasted Spinetail | 82.7% |
+| 33 | `whiwoo1` | White Woodpecker | 82.5% |
+| 34 | `hyamac1` | Hyacinth Macaw | 82.4% |
+| 35 | `bufpar` | Turquoise-fronted Amazon | 82.2% |
+| 36 | `souscr1` | Southern Screamer | 82.1% |
+| 37 | `bncfly` | Brown-crested Flycatcher | 81.9% |
+| 38 | `22956` | Mustached Frog | 81.7% |
+| 39 | `24279` | Lesser Snouted Tree Frog | 81.2% |
+| 40 | `eulfly1` | Euler's Flycatcher | 81.1% |
+| 41 | `whbwar2` | White-browed Warbler | 80.9% |
+| 42 | `whlspi1` | White-lored Spinetail | 80.5% |
+| 43 | `magant1` | Mato Grosso Antbird | 80.3% |
+| 44 | `24287` | Brown-bordered Snouted Tree Frog | 80.2% |
+| 45 | `ocecra1` | Ocellated Crake | 79.6% |
+| 46 | `pvttyr1` | Pearly-vented Tody-Tyrant | 79.3% |
+| 47 | `horscr1` | Horned Screamer | 79.0% |
+| 48 | `greyel` | Greater Yellowlegs | 79.0% |
+| 49 | `limpki` | Limpkin | 78.8% |
+| 50 | `bunibi1` | Buff-necked Ibis | 78.5% |
+| 51 | `purjay1` | Purplish Jay | 78.4% |
+| 52 | `bbwduc` | Black-bellied Whistling Duck | 78.3% |
+| 53 | `smbani` | Smooth-billed Ani | 77.3% |
+| 54 | `yecpar` | Yellow-chevroned Parakeet | 77.2% |
+| 55 | `brnowl` | American Barn Owl | 76.9% |
+| 56 | `trsowl` | Tropical Screech Owl | 76.6% |
+| 57 | `bobfly1` | Boat-billed Flycatcher | 76.5% |
+| 58 | `ashgre1` | Ashy-headed Greenlet | 76.3% |
+| 59 | `trokin` | Tropical Kingbird | 76.1% |
+| 60 | `flawar1` | Flavescent Warbler | 75.5% |
+| 61 | `crbthr1` | Creamy-bellied Thrush | 75.5% |
+| 62 | `rubthr1` | Rufous-bellied Thrush | 75.5% |
+| 63 | `22983` | Pepper Frog | 75.0% |
+| 64 | `rinkin1` | Ringed Kingfisher | 74.9% |
+| 65 | `ragmac1` | Red-and-green Macaw | 74.6% |
+| 66 | `ficman1` | Fiery-capped Manakin | 74.4% |
+| 67 | `varant1` | Variable Antshrike | 73.5% |
+| 68 | `1161364` | Guyalna cuta | 73.4% |
+| 69 | `65377` | Lesser Tree Frog | 73.1% |
+| 70 | `wfwduc1` | White-faced Whistling Duck | 72.9% |
+| 71 | `osprey` | Osprey | 72.6% |
+| 72 | `ruftho1` | Rufous-fronted Thornbird | 72.5% |
+| 73 | `greant1` | Great Antshrike | 72.3% |
+| 74 | `grekis` | Great Kiskadee | 72.1% |
+| 75 | `22930` | Basin White-lipped Frog | 72.0% |
+| 76 | `22967` | Marbled White-lipped Frog | 71.7% |
+| 77 | `chobla1` | Chopi Blackbird | 71.4% |
+| 78 | `sabspa1` | Saffron-billed Sparrow | 71.2% |
+| 79 | `baymac` | Blue-and-yellow Macaw | 70.7% |
+| 80 | `fepowl` | Ferruginous Pygmy Owl | 70.4% |
+| 81 | `ruftof1` | Rusty-fronted Tody-Flycatcher | 70.3% |
+| 82 | `rivwar1` | Riverbank Warbler | 70.1% |
+| 83 | `yebela1` | Yellow-bellied Elaenia | 69.3% |
+| 84 | `chvcon1` | Chestnut-vented Conebill | 69.3% |
+| 85 | `wesfie1` | Western Fire-eye | 69.0% |
+| 86 | `saffin` | Saffron Finch | 68.8% |
+| 87 | `spbant3` | Spot-backed Antshrike | 68.8% |
+| 88 | `schpar1` | Scaly-headed Parrot | 68.5% |
+| 89 | `platyr1` | Plain Inezia | 68.4% |
+| 90 | `socfly1` | Social Flycatcher | 67.9% |
+| 91 | `smbtin1` | Small-billed Tinamou | 67.7% |
+| 92 | `orwpar` | Orange-winged Amazon | 67.5% |
+| 93 | `banana` | Bananaquit | 67.5% |
+| 94 | `greani1` | Greater Ani | 67.5% |
+| 95 | `fotfly` | Fork-tailed Flycatcher | 67.3% |
+| 96 | `grfdov1` | Grey-fronted Dove | 67.3% |
+| 97 | `sibtan2` | Silver-beaked Tanager | 67.3% |
+| 98 | `shcfly1` | Short-crested Flycatcher | 67.3% |
+| 99 | `souant1` | Southern Antpipit | 67.3% |
+| 100 | `paltan1` | Palm Tanager | 67.0% |
+| 101 | `brcmar1` | Brown-chested Martin | 66.8% |
+| 102 | `whbant2` | White-bearded Antshrike | 66.7% |
+| 103 | `65380` | Dwarf Tree Frog | 66.6% |
+| 104 | `plasla1` | Planalto Slaty Antshrike | 66.3% |
+| 105 | `burowl` | Burrowing Owl | 66.3% |
+| 106 | `yeofly1` | Yellow-olive Flatbill | 65.5% |
+| 107 | `recfin1` | Red-crested Finch | 65.5% |
+| 108 | `watjac1` | Wattled Jacana | 65.2% |
+| 109 | `rumfly1` | Rusty-margined Flycatcher | 65.0% |
+| 110 | `sobtyr1` | Southern Beardless Tyrannulet | 64.8% |
+| 111 | `chacha1` | Chaco Chachalaca | 64.5% |
+| 112 | `pluibi1` | Plumbeous Ibis | 64.3% |
+| 113 | `shtnig1` | Short-tailed Nighthawk | 64.3% |
+| 114 | `rutjac1` | Rufous-tailed Jacamar | 64.1% |
+| 115 | `555146` | Chaco Tree Frog | 63.9% |
+| 116 | `compot1` | Common Potoo | 63.9% |
+| 117 | `bkcdon` | Black-capped Donacobius | 63.6% |
+| 118 | `yecmac` | Golden-collared Macaw | 63.3% |
+| 119 | `gretho2` | Greater Thornbird | 63.2% |
+| 120 | `lesgrf1` | Lesser Grass-Finch | 63.1% |
+| 121 | `grasal3` | Bluish-grey Saltator | 63.1% |
+| 122 | `squcuc1` | Common Squirrel-Cuckoo | 63.0% |
+| 123 | `thlwre1` | Thrush-like Wren | 63.0% |
+| 124 | `plcjay1` | Plush-crested Jay | 63.0% |
+| 125 | `blheag1` | Black Hawk-Eagle | 63.0% |
+| 126 | `lesela1` | Lesser Elaenia | 62.8% |
+| 127 | `giwrai1` | Giant Wood Rail | 62.5% |
+| 128 | `24285` | Snouted Tree Frog | 62.5% |
+| 129 | `bafcur1` | Bare-faced Curassow | 62.4% |
+| 130 | `camfli1` | Campo Flicker | 62.2% |
+| 131 | `mabpar` | Maroon-bellied Parakeet | 62.2% |
+| 132 | `linwoo1` | Lineated Woodpecker | 62.2% |
+| 133 | `undtin1` | Undulated Tinamou | 61.7% |
+| 134 | `dwatin1` | Dwarf Tinamou | 61.7% |
+| 135 | `redjun` | Red Junglefowl | 61.5% |
+| 136 | `326272` | Weeping Frog | 61.4% |
+| 137 | `oliwoo1` | Olivaceous Woodcreeper | 60.9% |
+| 138 | `whnjay1` | White-naped Jay | 60.9% |
+| 139 | `roahaw` | Roadside Hawk | 60.7% |
+| 140 | `rufgna3` | Rufous Gnateater | 60.4% |
+| 141 | `masgna1` | Masked Gnatcatcher | 60.4% |
+| 142 | `picpig2` | Picazuro Pigeon | 60.2% |
+| 143 | `rufhor2` | Rufous Hornero | 60.1% |
+| 144 | `tattin1` | Tataupa Tinamou | 59.4% |
+| 145 | `glteme1` | Glittering-throated Emerald | 59.3% |
+| 146 | `y00678` | Crested Caracara | 59.2% |
+| 147 | `rufcac2` | Rufous Cacholote | 59.1% |
+| 148 | `rebscy1` | Red-billed Scythebill | 59.0% |
+| 149 | `orbtro3` | Orange-backed Troupial | 58.9% |
+| 150 | `555145` | Polka-dot Tree Frog | 58.4% |
+| 151 | `74113` | Highland | 58.1% |
+| 152 | `stbwoo2` | Straight-billed Woodcreeper | 57.9% |
+| 153 | `barant1` | Barred Antshrike | 57.7% |
+| 154 | `64898` | Yungas de la Paz Poison Frog | 57.5% |
+| 155 | `larela1` | Large Elaenia | 56.9% |
+| 156 | `swthum1` | Swallow-tailed Hummingbird | 56.4% |
+| 157 | `saytan1` | Sayaca Tanager | 56.2% |
+| 158 | `fusfly1` | Fuscous Flycatcher | 56.1% |
+| 159 | `litcuc2` | Little Cuckoo | 55.5% |
+| 160 | `crebec1` | Crested Becard | 55.3% |
+| 161 | `whtdov` | White-tipped Dove | 54.9% |
+| 162 | `41970` | Jaguar | 54.7% |
+| 163 | `grepot1` | Great Potoo | 54.3% |
+| 164 | `fabwre1` | Fawn-breasted Wren | 53.7% |
+| 165 | `strher2` | Striated Heron | 53.3% |
+| 166 | `greela` | Greenish Elaenia | 52.9% |
+| 167 | `palhor3` | Pale-legged Hornero | 52.5% |
+| 168 | `23158` | Pale-legged Weeping Frog | 52.5% |
+| 169 | `25092` | Two-colored oval frog | 52.3% |
+| 170 | `blttit1` | Black-tailed Tityra | 51.3% |
+| 171 | `bcwfin2` | Black-capped Warbling Finch | 49.4% |
+| 172 | `chbmoc1` | Chalk-browed Mockingbird | 48.6% |
+| 173 | `whwpic1` | White-wedged Piculet | 47.6% |
+| 174 | `66971` | Paraguayan Swimming Frog | 46.7% |
+| 175 | `strowl1` | Striped Owl | 46.3% |
+| 176 | `yehcar1` | Yellow-headed Caracara | 42.9% |
+| 177 | `ruther1` | Rufescent Tiger Heron | 41.8% |
+| 178 | `blchaw1` | Black-collared Hawk | 41.4% |
+| 179 | `1595929` | Uruguay Harlequin Frog | 41.3% |
+| 180 | `shshaw` | Sharp-shinned Hawk | 40.5% |
+| 181 | `47144` | Domestic Dog | 39.7% |
+| 182 | `yebcar` | Yellow-billed Cardinal | 39.2% |
+| 183 | `rufcas2` | Rufous Casiornis | 38.9% |
+| 184 | `1176823` | Wrestler Frog | 38.3% |
+| 185 | `magtan2` | Magpie Tanager | 37.6% |
+| 186 | `67252` | Milk Frog | 36.9% |
+| 187 | `grhtan1` | Grey-headed Tanager | 32.6% |
+| 188 | `gilhum1` | Gilded Hummingbird | 32.5% |
+| 189 | `epaori4` | Variable Oriole | 27.4% |
+| 190 | `sobcac1` | Solitary Cacique | 24.8% |
+| 191 | `22985` | Peter's Jungle Frog | 24.0% |
+| 192 | `nacnig1` | Nacunda Nighthawk | 20.9% |
+| 193 | `23154` | Bahia Dwarf Frog | 20.8% |
+| 194 | `22961` | Pointedbelly Frog | 18.3% |
+| 195 | `sptnig1` | Spot-tailed Nightjar | 11.1% |
+| 196 | `25214` | Muller's Termite Frog | 2.9% |
+| 197 | `116570` | Southern Spectacled Caiman | 0.0% |
+| 198 | `209233` | Feral Horse | 0.0% |
+| 199 | `23150` | Central Dwarf Frog | 0.0% |
+| 200 | `23724` | Waxy Monkey Tree Frog | 0.0% |
+| 201 | `24321` | Mato Grosso Snouted Tree Frog | 0.0% |
+| 202 | `476521` | Cuyaba Dwarf Frog | 0.0% |
+| 203 | `516975` | Hooded Capuchin | 0.0% |
+| 204 | `555123` | Usina Tree Frog | 0.0% |
+| 205 | `70711` | Cei's White-lipped Frog | 0.0% |
+| 206 | `74580` | Black-tailed Marmoset | 0.0% |
+
+**Tightest:** baffal1 (94%), rufnig1 (94%), 67107 (93%)
+**Most overlapped:** 555123 (0%), 70711 (0%), 74580 (0%)
+
+## Species purity by taxon class
+
+| class | species | clips | mean species purity |
+|---|---|---|---|
+| Aves | 162 | 134,450 | 67.1% |
+| Amphibia | 32 | 1,756 | 47.0% |
+| Insecta | 3 | 814 | 83.8% |
+| Mammalia | 8 | 321 | 41.0% |
+| Reptilia | 1 | 1 | 0.0% |
+
+## Dataset-source batch effect
+
+- **81.4%** of neighbours share the query's source (chance = 63.7%, **1.3x**)
+
+  - `birdclef-xc`: 90.1%
+  - `birdclef-inat`: 53.5%
+
+Reading: no strong batch effect at this k.
+
+
+wrote /workspace/bc26/exports/bc26_ft/analysis.md
+FT_DONE
