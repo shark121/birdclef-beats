@@ -1,0 +1,26 @@
+{
+  "_comment": "First-pass species subset: 20 species of the Texas Gulf Coast / Galveston Bay-Houston region. Chosen so the instructor's field recordings (dataset_source=field) drop into the SAME label space as the public sources rather than forming an unrelated set. species_code values are eBird-style 6-letter codes; reconcile against BirdCLEF's primary_label when that source is enabled.",
+  "target_recordings_per_species": 60,
+  "species": [
+    {"species_code": "norcar", "scientific_name": "Cardinalis cardinalis",   "common_name": "Northern Cardinal"},
+    {"species_code": "carwre", "scientific_name": "Thryothorus ludovicianus","common_name": "Carolina Wren"},
+    {"species_code": "normoc", "scientific_name": "Mimus polyglottos",       "common_name": "Northern Mockingbird"},
+    {"species_code": "blujay", "scientific_name": "Cyanocitta cristata",     "common_name": "Blue Jay"},
+    {"species_code": "amecro", "scientific_name": "Corvus brachyrhynchos",   "common_name": "American Crow"},
+    {"species_code": "moudov", "scientific_name": "Zenaida macroura",        "common_name": "Mourning Dove"},
+    {"species_code": "rewbla", "scientific_name": "Agelaius phoeniceus",     "common_name": "Red-winged Blackbird"},
+    {"species_code": "houspa", "scientific_name": "Passer domesticus",       "common_name": "House Sparrow"},
+    {"species_code": "carchi", "scientific_name": "Poecile carolinensis",    "common_name": "Carolina Chickadee"},
+    {"species_code": "tuftit", "scientific_name": "Baeolophus bicolor",      "common_name": "Tufted Titmouse"},
+    {"species_code": "dowwoo", "scientific_name": "Dryobates pubescens",     "common_name": "Downy Woodpecker"},
+    {"species_code": "rebwoo", "scientific_name": "Melanerpes carolinus",    "common_name": "Red-bellied Woodpecker"},
+    {"species_code": "grtgra", "scientific_name": "Quiscalus mexicanus",     "common_name": "Great-tailed Grackle"},
+    {"species_code": "whwdov", "scientific_name": "Zenaida asiatica",        "common_name": "White-winged Dove"},
+    {"species_code": "easblu", "scientific_name": "Sialia sialis",           "common_name": "Eastern Bluebird"},
+    {"species_code": "amerob", "scientific_name": "Turdus migratorius",      "common_name": "American Robin"},
+    {"species_code": "killde", "scientific_name": "Charadrius vociferus",    "common_name": "Killdeer"},
+    {"species_code": "laugul", "scientific_name": "Leucophaeus atricilla",   "common_name": "Laughing Gull"},
+    {"species_code": "grbher", "scientific_name": "Ardea herodias",          "common_name": "Great Blue Heron"},
+    {"species_code": "barswa", "scientific_name": "Hirundo rustica",         "common_name": "Barn Swallow"}
+  ]
+}
