@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "bird_song_filtered",
+      "tensorShape": [
+        3809,
+        768
+      ],
+      "tensorPath": "vectors.tsv",
+      "metadataPath": "metadata.tsv"
+    }
+  ]
+}

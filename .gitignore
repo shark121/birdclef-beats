@@ -1,0 +1,35 @@
+# Large pipeline outputs: regenerate with the scripts, never commit.
+# data/ itself is tracked: it holds the manifests, metrics and logs.
+data/raw/
+data/clips/
+data/interim/
+data/embeddings/
+data/checkpoints/
+exports/*/vectors.tsv
+exports/*/metadata.tsv
+*.pt
+*.ckpt
+*.npy
+
+# credentials -- never commit these
+azure/.storage_key
+azure/.code_url
+azure/.my_ip
+azure/.vm_principal_id
+azure/.nsg_name
+azure/.storage_account_name
+azure/birdclef_vm_key
+azure/birdclef_vm_key.pub
+config/xc_api_key.txt
+kaggle.json
+.env
+
+# python
+__pycache__/
+*.egg-info/
+.venv/
+
+# logs, except the run logs kept under data/
+*.log
+!data/*.log
+!data/logs/*.log

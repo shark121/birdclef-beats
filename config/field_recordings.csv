@@ -1,0 +1,2 @@
+filename,species_code,scientific_name,common_name,date,location,latitude,longitude,equipment,recordist,license,notes
+# example - delete this row,norcar,Cardinalis cardinalis,Northern Cardinal,2026-09-08,"Galveston Bay, TX",29.5000,-94.9000,Zoom H5 + Rode NTG2,S. Boakye,CC-BY-4.0,"dawn chorus, light wind"
